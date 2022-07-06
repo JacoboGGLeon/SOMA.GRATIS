@@ -1,5 +1,8 @@
 # Actividad: Stack $AlphaNEER para recibir $BIT
 
+## Video:
+	* https://youtu.be/FMkJWszRf3U
+
 ## Requisitos:
 	* Tener un correo conocido activo
 
