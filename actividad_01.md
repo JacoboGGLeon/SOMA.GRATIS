@@ -3,6 +3,7 @@
 ## Video:
 
 * Link: [https://youtu.be/FMkJWszRf3U](https://youtu.be/FMkJWszRf3U)
+* Manual completo del metaverso Bit.Country: [https://metaversenw.gitbook.io/user-manual/](https://metaversenw.gitbook.io/user-manual/)
 
 ## Requisitos:
 
