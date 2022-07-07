@@ -1,9 +1,11 @@
 # Actividad: Stack $AlphaNEER para recibir $BIT
 
-## Video:
+## Recursos:
 
-* Link: [https://youtu.be/FMkJWszRf3U](https://youtu.be/FMkJWszRf3U)
+* Link del videotutorial de la actividad: [https://youtu.be/FMkJWszRf3U](https://youtu.be/FMkJWszRf3U)
 * Manual completo del metaverso Bit.Country: [https://metaversenw.gitbook.io/user-manual/](https://metaversenw.gitbook.io/user-manual/)
+* Bit.Country: Non-Technical Guide To Launch Your Metaverse On Polkadot | Polkadot Decoded 2022: [https://youtu.be/rthukzUmAfw](https://youtu.be/rthukzUmAfw)
+
 
 ## Requisitos:
 
